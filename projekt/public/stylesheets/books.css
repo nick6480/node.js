@@ -1,0 +1,45 @@
+/* side.css */
+h1 {
+    color: red;
+    font-family: sans-serif;
+}
+ul {
+}
+header nav ul {
+    list-style: none;
+    width: 40%;
+    margin-right: 10px;
+    text-align: right;
+}
+header nav ul li {
+    border: 5px outset gray;
+    margin-right: 5px;
+    display: inline;
+}
+
+#books {
+  width: 500px;
+
+}
+
+#addbtn1 {
+  background-color: #969696;
+  padding: 10px;
+  border-radius: 50px;
+}
+
+#addBtn {
+border: none;
+border-radius: 50%;
+height: 50px;
+width: 50px;
+font-size: 30px;
+background-color: #525252;
+color: #969696;
+}
+
+.books {
+  border: solid black 1px;
+  margin: 20px 0 20px 0;
+  padding: 10px 10px 50px 10px;
+}
